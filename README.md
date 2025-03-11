@@ -1,2 +1,5 @@
 # video_to_bag
-Convert mp4 video to rosbag
+Convert video to rosbag
+
+
+Usage: video2bag videofilename bagfilename
